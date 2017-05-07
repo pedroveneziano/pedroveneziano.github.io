@@ -94,15 +94,15 @@ li{
 }
 
 article{
-	margin-left: 8.5%;
-	margin-right: 8.5%;
+	margin-left: 8.33%;
+	margin-right: 8.33%;
 }
 
 ul{
-	margin-left: 8.5%;
+	margin-left: 8.33%;
 }
 
-@media only screen and (min-width: 1060px) {
+@media only screen and (min-width: 1080px) {
 
 article, ul{
 	margin-left: 0;
@@ -121,7 +121,7 @@ article, ul{
 
 }
 
-@media only screen and (min-width: 1310px) {
+@media only screen and (min-width: 1330px) {
 
 #box-left{
 	display: inline-block;
