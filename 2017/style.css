@@ -1,0 +1,50 @@
+*{
+margin:0;
+padding:0;
+}
+
+html {
+	-webkit-text-size-adjust: 100%;
+}
+
+img{
+	width: 100%;
+	display: block;
+	margin-bottom: 18px;
+}
+
+.wrapper{
+	max-width: 100%;
+}
+
+.sec{
+	margin-left: 16px;
+	margin-right: 16px;
+	max-width: 100%;
+}
+
+figure{
+	margin-top: 50px;
+}
+
+.clear{
+	clear: both;
+}
+
+.extra{
+	height: 32px;
+}
+
+.none{
+	display: none;
+}
+
+::selection {
+  background: none;
+}
+
+body{
+	width: 100%;
+	background-color: black;
+}
+
