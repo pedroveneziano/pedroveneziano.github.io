@@ -103,6 +103,10 @@ footer{
 
 /*-----------------MAIN-----------------*/
 
+.lazy{
+	display: block;
+}
+
 html, body {
   height: 100%;
 }
@@ -121,7 +125,7 @@ footer {
 }
 
 body{
-	background-color: #F0F0F0;
+	background-color: #A8A9AA;
 	width: 100%;
 	font-family: 'Work Sans', sans-serif;
 	font-size: 1em;
@@ -146,7 +150,7 @@ footer{
 }
 
 #main-menu{
-	background-color: #F0F0F0;
+	background-color: #A8A9AA;
 	position: fixed;
 	z-index: 100;
 	width: 100%;
@@ -284,8 +288,8 @@ figcaption{
 }
 
 .thumb-image:hover, .thumb-video:hover{
-  -moz-transform: scale(1.02);
-  -webkit-transform: scale(1.02);
+  -moz-transform: scale(1.03);
+  -webkit-transform: scale(1.03);
   transform: scale(1.02);
 }
 
@@ -298,7 +302,7 @@ figcaption{
 	display: none;
 }
 
-@media only screen and (min-width: 640px) {
+@media only screen and (min-width: 700px) {
 
 /*-----------------MAIN-----------------*/
 
@@ -362,7 +366,7 @@ footer{
 }
 
 .title{
-	margin-bottom: 24px;
+	margin-bottom: 27px;
 }
 
 #credits{
@@ -482,7 +486,7 @@ footer{
 /*-----------------TEXT-----------------*/
 
 .text-GG{
-	font-size: 2.35em;
+	font-size: 2.3em;
 	line-height: 40px;
 }
 
@@ -542,7 +546,7 @@ figcaption{
 	float: left;
 	width: 46%;
 	margin-right: 0;
-	margin-top: 2px;
+	margin-top: 3px;
 }
 
 #resume{
