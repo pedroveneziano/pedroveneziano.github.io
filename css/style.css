@@ -121,7 +121,7 @@ footer {
 }
 
 body{
-	background-color: #EDEDED;
+	background-color: #F0F0F0;
 	width: 100%;
 	font-family: 'Work Sans', sans-serif;
 	font-size: 1em;
@@ -142,11 +142,11 @@ article{
 footer{
 	padding-left: 7.5%;
 	padding-right: 7.5%;
-	margin-bottom: 20px;
+	padding-bottom: 26px;
 }
 
 #main-menu{
-	background-color: #EDEDED;
+	background-color: #F0F0F0;
 	position: fixed;
 	z-index: 100;
 	width: 100%;
@@ -233,7 +233,6 @@ footer{
 }
 
 /*-----------------TEXT-----------------*/
-
 
 a:link{
 	color: black;
@@ -354,7 +353,7 @@ article{
 footer{
 	padding-left: 4.6%;
 	padding-right: 5%;
-	margin-bottom: 26px;
+	padding-bottom: 26px;
 }
 
 #prevnext{
