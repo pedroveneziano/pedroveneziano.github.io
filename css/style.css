@@ -125,7 +125,7 @@ footer {
 }
 
 body{
-	background-color: #A8A9AA;
+	background-color: #B2B3B4;
 	width: 100%;
 	font-family: 'Work Sans', sans-serif;
 	font-size: 1em;
@@ -150,7 +150,7 @@ footer{
 }
 
 #main-menu{
-	background-color: #A8A9AA;
+	background-color: #B2B3B4;
 	position: fixed;
 	z-index: 100;
 	width: 100%;
@@ -258,7 +258,7 @@ a:hover{
 .text-GG, .text-G{
 	font-size: 1.7em;
 	line-height: 30px;
-	letter-spacing: 0.015em;
+	letter-spacing: 0.01em;
 }
 
 .text-M, .text-P{
