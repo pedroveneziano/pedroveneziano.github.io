@@ -483,6 +483,17 @@ footer{
 	float: left;
 }
 
+.F1{
+	width: 42.78%;
+	float: left;
+}
+
+.F2{
+	width: 49.14%;
+	float: right;
+	margin-top: 13.12vw;
+}
+
 /*-----------------TEXT-----------------*/
 
 .text-GG{
