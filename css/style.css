@@ -494,6 +494,34 @@ footer{
 	margin-top: 13.12vw;
 }
 
+.G1{
+	width: 42.78%;
+	float: left;
+	margin-bottom: 3.125vw;
+}
+
+.G2{
+	width: 49.14%;
+	float: right;
+	margin-top: 18.23vw;
+}
+
+.G3{
+	width: 42.78%;
+	float: left;
+}
+
+.H1{
+	width: 30.06%;
+	float: left;
+}
+
+.H2{
+	width: 55.5%;
+	float: right;
+	margin-top: 2.765vw;
+}
+
 /*-----------------TEXT-----------------*/
 
 .text-GG{
