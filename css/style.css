@@ -230,9 +230,10 @@ a:visited{
 .project-vimeo-container{
 	width: 100%;
   border-radius: 4px;
+  -moz-border-radius: 4px;
+  -webkit-border-radius: 4px;
   z-index: 1;
   overflow: hidden;
-  -webkit-transform: translateZ(0);
 }
 
 .project-image-left{
@@ -248,8 +249,9 @@ video{
 .video-container{
 	width: 100%;
 	border-radius: 4px;
+  -moz-border-radius: 4px;
+  -webkit-border-radius: 4px;
 	overflow: hidden;
-	-webkit-transform: translateZ(0);
 }
 
 /*-------------------------------------------------RESPONSIVE BP-------------------------------------------------*/
