@@ -144,6 +144,12 @@ article{
 	margin-top: 32px;
 }
 
+.lookdev-divider{
+	clear: both;
+	padding-top: 64px;
+	padding-bottom: 32px;
+}
+
 .bio-left, .bio-right{
 	width: calc(100% - 8px);
 	padding: 4px;
@@ -218,6 +224,11 @@ a:visited{
 	color: white;
 	letter-spacing: -0.02em;
 	mix-blend-mode:difference;
+}
+
+.lookdev-title{
+	text-align: center;
+	margin-bottom: 32px;
 }
 
 /*-----------------IMAGE-----------------*/
@@ -330,6 +341,10 @@ video{
 
 .project-desc{
 	margin-top: 34px;
+}
+
+.lookdev-divider{
+	padding-top: 96px;
 }
 
 #credits{
